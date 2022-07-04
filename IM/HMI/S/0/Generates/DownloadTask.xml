@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DownloadTask>
+  <ProjectInfo
+    DeviceVersion="16.0.0.0"
+    CreationTime="2022-06-28 08:43:10 (UTC)"
+    Runtime="SMART"
+    RtProjectName="DENEME_2022_06_27.HMI_1[KTP1200 Basic PN]"
+    RtProjectFolderName="DENEME_2022_06_27.HMI_1[KTP1200 Basic PN]"
+    DeviceType="KTP1200_Basic"
+    DisplayOrientation="0"
+    RTReleaseNo="16.0.0.5"
+    ImageReleaseNo="16.0.0.5"
+    RTCV="16.0.0.0"
+    PRCV="16.0.0.0"
+    FirmwareFileName="KTP1200\16.0.0.5\KTP1200_V16_00_00_03.fwf"
+    RuntimeFileName="KTP1200\16.0.0.5\KTP1200_V16_00_00_03.fwf"
+    RuntimeAddonFolderName="KTP1200" />
+  <FullDownload>pdata.srt</FullDownload>
+  <FullDownload
+    type="ADMINDATA">pdata.pwx</FullDownload>
+  <FullDownload>pdata.ORIE.cnk</FullDownload>
+  <FullDownload>pdata.ETH0.cnk</FullDownload>
+</DownloadTask>
